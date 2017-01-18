@@ -1,0 +1,26 @@
+<RCC>
+<qresource prefix="/">
+    <file>Images/1.png</file>
+    <file>Images/1-1.png</file>
+    <file>Images/2.png</file>
+    <file>Images/2-1.png</file>
+    <file>Images/3.png</file>
+    <file>Images/3-1.png</file>
+    <file>Images/close_1.png</file>
+    <file>Images/close_2.png</file>
+    <file>Images/config.png</file>
+    <file>Images/dlb-1.png</file>
+    <file>Images/dlb-2.png</file>
+    <file>Images/Icon.ico</file>
+    <file>Images/Icon64x64.png</file>
+    <file>Images/Icon256x256.ico</file>
+    <file>Images/maxmal_1.png</file>
+    <file>Images/maxmal_2.png</file>
+    <file>Images/media.png</file>
+    <file>Images/minmal_1.png</file>
+    <file>Images/minmal_2.png</file>
+    <file>Images/right_back2.jpg</file>
+    <file>Images/setting.png</file>
+    <file>Images/tube_logo.jpg</file>
+</qresource>
+</RCC>
